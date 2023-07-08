@@ -12,7 +12,7 @@
 
 
 
-<h4 align="center">💻 Crear una aplicación en Meta for Developers</h4>
+##💻 Crear una aplicación en Meta for Developers
 
 <p>Si quieres enviar y recibir un primer mensaje con un número de prueba desde la plataforma de Meta, debes completar los siguientes pasos:</p>
 <ol>
@@ -22,26 +22,17 @@
     <li>Recibir un mensaje de prueba</li>
 </ol>
 
-<h4 align="center">💻 Enviar y recibir mensajes de diferentes tipos como: Imagen, audio, video, documento, sticker, botones, lista de opciones y ubicaciones en mapa</h4>
+##💻 Enviar y recibir mensajes de diferentes tipos como: Imagen, audio, video, documento, sticker, botones, lista de opciones y ubicaciones en mapa
 
-<img align='center' src='https://i.ibb.co/m4B7qXY/f0240000-b107-11ea-8c2e-02755c9b1505.png' width='25%'> 
+<img src='https://i.ibb.co/pzNYtqb/GIF1.gif' alt="gif1" border="0"width='50%'> 
+<img src="https://i.ibb.co/7SkFDS4/gif2.gif" alt="gif2" border="0" width='50%'>
 
-<h4 align="center">📚 enlaces rápidos ⚙</h4>
+##📚 enlaces rápidos ⚙
 
-* [Guia/ Meta for Developers](https://developers.facebook.com/apps/) _(work in progress)_
+* [Guia/ Meta for Developers](https://developers.facebook.com/apps/) 
 * [Documentación Postman](https://docs.wwebjs.dev/)
+
+<img src="https://i.ibb.co/SXVcfBG/gif3.gif" alt="gif3" border="0">
+
 * [Documentación app Web Node.js en Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode)
 
-#### ✉️ Contactamé
-
-<p align="left">
-	<a href="https://www.linkedin.com/in/lizbeth-grisales-castro" target="_blank" rel="noreferrer">
-		<img src="assets/linkedin.png" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
-	</a>
-	<a href="mailto:lizgricas@gmail.com" target="_blank" rel="noreferrer">
-		<img src="assets/gmail.png" width="40" height="40" alt="Gmail" title="Gmail"/>
-	</a>
-		<a href="https://t.me/LizGricas" target="_blank" rel="noreferrer">
-		<img src="assets/telegram.png" width="40" height="40" alt="Telegram" title="Telegram"/>
-	</a>
-</p>
