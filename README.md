@@ -24,15 +24,14 @@
 
 ##💻 Enviar y recibir mensajes de diferentes tipos como: Imagen, audio, video, documento, sticker, botones, lista de opciones y ubicaciones en mapa
 
-<img src='https://i.ibb.co/pzNYtqb/GIF1.gif' alt="gif1" border="0"width='50%'> 
-<img src="https://i.ibb.co/7SkFDS4/gif2.gif" alt="gif2" border="0" width='50%'>
+<img src='https://i.ibb.co/pzNYtqb/GIF1.gif'  width='50%'> 
+<img src="https://i.ibb.co/7SkFDS4/gif2.gif"  width='50%'>
 
 ##📚 enlaces rápidos ⚙
 
 * [Guia/ Meta for Developers](https://developers.facebook.com/apps/) 
 * [Documentación Postman](https://docs.wwebjs.dev/)
-
-<img src="https://i.ibb.co/SXVcfBG/gif3.gif" alt="gif3" border="0">
-
 * [Documentación app Web Node.js en Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode)
+
+<img src="https://i.ibb.co/SXVcfBG/gif3.gif" width="100%">
 
