@@ -14,7 +14,6 @@
 
 
 
-
 ##💻 Crear una aplicación en Meta for Developers
 
 <p>Si quieres enviar y recibir un primer mensaje con un número de prueba desde la plataforma de Meta, debes completar los siguientes pasos:</p>
@@ -28,6 +27,10 @@
 ##💻 Enviar y recibir mensajes de diferentes tipos como: Imagen, audio, video, documento, sticker, botones, lista de opciones y ubicaciones en mapa
 
 ![gif2](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/dc8ab873-8058-4ba2-8276-613eeaa4d328)
+
+
+
+<img align='center' src='https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/1cc14f6f-85f2-451e-81aa-237d3a864059' width='100%'> 
 
 
 ##📚 enlaces rápidos ⚙
