@@ -37,5 +37,3 @@
 * [Documentación Postman](https://docs.wwebjs.dev/)
 
 ![gif3](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/883cc25c-0761-4a3a-a554-23c5f6a76c14)
-
-![GIF1](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/aeabaa7e-9b7e-49b5-b31d-41d1695b5a70)
