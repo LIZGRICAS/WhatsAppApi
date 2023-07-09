@@ -27,19 +27,15 @@
 
 ##💻 Enviar y recibir mensajes de diferentes tipos como: Imagen, audio, video, documento, sticker, botones, lista de opciones y ubicaciones en mapa
 
-
-
-
-![gif2![GIF1](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/1a184ec3-bef0-40a6-8dbb-f1afb1a13af9)
-](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/6080ac8c-5b3a-4641-b615-d25c3a5ee921)
-
+![gif2](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/dc8ab873-8058-4ba2-8276-613eeaa4d328)
 
 
 ##📚 enlaces rápidos ⚙
 
 * [Guia/ Meta for Developers](https://developers.facebook.com/apps/) 
-* [Documentación Postman](https://docs.wwebjs.dev/)
 * [Documentación app Web Node.js en Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode)
+* [Documentación Postman](https://docs.wwebjs.dev/)
 
 ![gif3](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/883cc25c-0761-4a3a-a554-23c5f6a76c14)
 
+![GIF1](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/aeabaa7e-9b7e-49b5-b31d-41d1695b5a70)
