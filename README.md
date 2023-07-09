@@ -30,8 +30,9 @@
 
 
 
-<img align='center' src='https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/1cc14f6f-85f2-451e-81aa-237d3a864059' width='100%'> 
+<img align='center' src='https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/1cc14f6f-85f2-451e-81aa-237d3a864059' width='50%' margin-left="15%"> 
 
+---
 
 ##📚 enlaces rápidos ⚙
 
