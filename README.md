@@ -28,9 +28,10 @@
 ##💻 Enviar y recibir mensajes de diferentes tipos como: Imagen, audio, video, documento, sticker, botones, lista de opciones y ubicaciones en mapa
 
 
-![GIF1](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/8ac9eab8-a20f-407d-b4b0-c3089431c6b5)
 
-![gif2](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/6080ac8c-5b3a-4641-b615-d25c3a5ee921)
+
+![gif2![GIF1](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/1a184ec3-bef0-40a6-8dbb-f1afb1a13af9)
+](https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/6080ac8c-5b3a-4641-b615-d25c3a5ee921)
 
 
 
