@@ -29,10 +29,13 @@
 <p align="center" >
      <img width="800" heigth="400" src="https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/dc8ab873-8058-4ba2-8276-613eeaa4d328">
 </p>
+
 ---
+
 <p align="center" >
      <img width="800" heigth="400" src="https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/1cc14f6f-85f2-451e-81aa-237d3a864059">
 </p>
+
 ---
 
 ##📚 enlaces rápidos ⚙
