@@ -32,8 +32,9 @@
 
 ---
 
+
 <p align="center" >
-     <img width="800" heigth="400" src="https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/1cc14f6f-85f2-451e-81aa-237d3a864059">
+     <img width="800" heigth="400" src="https://github.com/LIZGRICAS/WhatsAppApi/assets/102168375/0499cbbc-ac6a-405d-a5de-a2b43348c7df">
 </p>
 
 ---
